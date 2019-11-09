@@ -1,0 +1,7 @@
+{
+    "name": "pcriegern/moretest",
+    "description": "API Test Repository 2",
+    "require": {
+        "php": ">=5.6"
+    }
+}
