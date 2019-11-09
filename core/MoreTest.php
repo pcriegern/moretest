@@ -1,6 +1,6 @@
 <?php
 
-namespace wlec\apitest\Core;
+namespace wlec\moretest\Core;
 
 class Moretest {
     public static function triple ( $value ) {
